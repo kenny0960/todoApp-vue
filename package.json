@@ -9,7 +9,8 @@
     "vue": "2.6.6"
   },
   "scripts": {
-    "production": "webpack --mode=production"
+    "build": "webpack --mode production",
+    "watch": "webpack --watch"
   },
   "license": "UNLICENSED",
   "repository": {}
