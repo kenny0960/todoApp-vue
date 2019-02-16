@@ -1,0 +1,16 @@
+{
+  "name": "todoapp-vue",
+  "version": "1.0.0",
+  "devDependencies": {
+    "webpack": "4.29.4",
+    "webpack-cli": "^3.2.3"
+  },
+  "dependencies": {
+    "vue": "2.6.6"
+  },
+  "scripts": {
+    "production": "webpack --mode=production"
+  },
+  "license": "UNLICENSED",
+  "repository": {}
+}
